@@ -15,6 +15,10 @@ Sources
 * Alternative spellings and relevance are inspired by https://github.com/JamieAppleseed/selectToAutocomplete
 * Region and subregion are taken from https://github.com/hexorx/countries
 
+### Locales
+
+* Java's SimpleDateFormat.getAvailableLocales()
+
 Credits
 -------
 
