@@ -153,4 +153,4 @@ $locales = array(
   "uk"       => "Ukrainian",
   "vi_VN"    => "Vietnamese (Vietnam)",
   "vi"       => "Vietnamese"
-}
+);
